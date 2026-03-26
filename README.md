@@ -4,6 +4,14 @@
 
 ---
 
+License
+-------
+Southern Cross Solutions (Pty) Ltd. License (Proprietary)
+All Rights Reserved
+Copy Right 2019-2026
+
+See LICENSE file
+
 ## Installation
 
 Add the following dependency to your `package.json` to pull in the custom Openstack Swift integration
