@@ -1,0 +1,27 @@
+{
+  "name": "strapi-openstack-swift-provider",
+  "version": "1.0.0",
+  "description": "Openstack Swift storage provider for Strapi file uploads",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/southern-cross-solutions/strapi-openstack-swift-provider"
+  },
+  "keywords": [],
+  "license": "SEE LICENSE IN LICENSE",
+  "author": {
+    "name": "Michael Yatrakos",
+    "org": "Southern Cross Solutions"
+  },
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "dependencies": {
+    "pkgcloud": "2.2.0",
+    "streamifier": "0.1.1"
+  },
+  "engines": {
+    "node": ">=16.x.x <=20.x.x",
+    "npm": ">=6.0.0"
+  }
+}
